@@ -1,5 +1,5 @@
 {
-  "name": "@ionic/app-scripts",
+  "name": "@foodji/app-scripts",
   "version": "3.2.4",
   "description": "Scripts for Ionic Projects",
   "homepage": "https://ionicframework.com/",
@@ -34,7 +34,7 @@
     "@angular-devkit/build-optimizer": "0.0.35",
     "autoprefixer": "^7.2.6",
     "chalk": "^2.4.0",
-    "chokidar": "^2.0.4",
+    "chokidar": "^2.1.8",
     "clean-css": "^4.1.11",
     "cross-spawn": "^5.1.0",
     "dotenv-webpack": "^1.5.7",
